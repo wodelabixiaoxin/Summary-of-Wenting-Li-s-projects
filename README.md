@@ -1,4 +1,4 @@
-# Summary-of-Wenting-Li's-projects
+# Summary of Wenting Li's projects
 
 
 **A. Work during Internship at Inovision, Inc**
